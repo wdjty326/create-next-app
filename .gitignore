@@ -1,0 +1,5 @@
+# build
+.next
+
+# node modules
+node_modules
